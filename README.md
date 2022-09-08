@@ -1,7 +1,6 @@
-### ◼️ Hi there 👋
-## ◼️ This is **Open Source Software** Class  
-# ◼️ Prof. SungLok Choi. 
-◼️
+# ◼️ 💻*Welcome to <span style="color:red">Open Source Software</span> Class* 🖱️
+◼️ This is _Open Source Software_ Class  
+◼️ Prof. SungLok Choi. 
 ◼️
 ◼️
 
