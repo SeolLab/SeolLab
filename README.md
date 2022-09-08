@@ -1,4 +1,9 @@
-### Hi there 👋
+### ◼️ Hi there 👋
+## ◼️ This is **Open Source Software** Class  
+# ◼️ Prof. SungLok Choi. 
+◼️
+◼️
+◼️
 
 <!--
 **seol731/seol731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
