@@ -1,8 +1,7 @@
 # ◼️ 💻*Welcome to <span style="color:red">Open Source Software</span> Class* 🖱️
 ◼️ This is _Open Source Software_ Class  
 ◼️ Prof. SungLok Choi. 
-◼️
-◼️
+<br/>![image](https://m.blog.naver.com/we-korea/220515301674?view=img_2)
 
 <!--
 **seol731/seol731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
