@@ -1,4 +1,4 @@
-# ◼️ 💻*Welcome to <span style="color:red">Open Source Software</span> Class* 🖱️
+# 💻*Welcome to <span style="color:red">Open Source Software</span> Class* 🖱️
 ◼️ This is _Open Source Software_ Class  
 ◼️ Prof. SungLok Choi. 
 <br/>![image](https://m.blog.naver.com/we-korea/220515301674?view=img_2)
