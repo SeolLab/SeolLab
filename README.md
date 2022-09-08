@@ -1,5 +1,5 @@
 # 💻*Welcome to <span style="color:red">Open Source Software</span> Class* 🖱️
-◼️  #_OSS_ &nbsp; #git &nbsp; #github &nbsp; #_<u>Prof.SungLok_Choi<\u>_ &nbsp; #_so_Fun_
+◼️  #_OSS_ &nbsp; #_git_ &nbsp; #_github_ &nbsp; #_<u>Prof.SungLok_Choi</u>_ &nbsp; #_so_Fun_
 <br/><img width="825" alt="image" src="https://user-images.githubusercontent.com/83863024/189067018-ee8160cf-85ae-4ae9-a860-d86449bd65ac.png">
 
 📁 source: <https://www.oss.kr/oss_guide/show/f74f64ae-767b-4667-96bf-8a0dc8ab0082>
