@@ -3,3 +3,6 @@
 
 ![seol731 github stats](https://github-readme-stats.vercel.app/api?username=seol731&show_icons=true&theme=chartreuse-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seol731&layout=compact&theme=chartreuse-dark)
+
+
+<a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/key_seol-chartreuse-dark?style=plastic&logo=#E4405F &logoColor=db5748"/></a>
