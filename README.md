@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,28&height=185&section=header&text=Seol'%20Lab.&fontSize=70&rotate=-2)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseol731%2Fseol731%2Fedit%2Fmain%2FREADME.md&count_bg=%230A130E&title_bg=%23555555&icon=electron.svg&icon_color=%231AC49E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 
 
