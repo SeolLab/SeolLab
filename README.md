@@ -29,3 +29,10 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&flat&logo=Visual%20Studio%20Code&logoColor=white)
 
+
+ 
+ 
+ 
+# :mailbox_with_mail: Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:seolpark731@gmail.com)](mailto:seolpark731@gmail.com)
+<!-- [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:rlatngus1691@naver.com) -->
