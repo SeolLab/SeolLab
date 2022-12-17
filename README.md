@@ -9,8 +9,13 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   <a href="https://www.notion.so/Get_Started-9ebf49104de944d19250c6ed4a20708a"><img src="http://img.shields.io/badge/-Get_started-000000?style=flat&logo=notion&link=https://www.notion.so/Get_Started-9ebf49104de944d19250c6ed4a20708a"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  <a href="https://seolpark.tistory.com/"><img src="http://img.shields.io/badge/-MyStory-000000?style=flat&logo=Tistory&link=https://seolpark.tistory.com/"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
-   
+
+
+
+
    
    
 
