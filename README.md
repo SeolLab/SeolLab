@@ -22,7 +22,8 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 ![SeolLab github stats](https://github-readme-stats.vercel.app/api?username=SeolLab&show_icons=true&theme=chartreuse-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeolLab&layout=compact&theme=chartreuse-dark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=isaiah_54)](https://solved.ac/profile/isaiah_54)
-
+ <img src="http://mazandi.herokuapp.com/api?handle={isaiah_54}&theme=warm"/>
+   
 
 ## skills🔑
 <!-- ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white)
