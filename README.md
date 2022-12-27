@@ -15,14 +15,14 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seol'Lab)](https://github.com/Seol'Lab/github-readme-stats)
+
    
    
 
-![SeolLab github stats](https://github-readme-stats.vercel.app/api?username=SeolLab&show_icons=true&theme=chartreuse-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeolLab&layout=compact&theme=chartreuse-dark)
+![SeolLab github stats](https://github-readme-stats.vercel.app/api?username=SeolLab&show_icons=true&theme=chartreuse-dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeolLab&layout=compact&theme=chartreuse-dark)   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=isaiah_54)](https://solved.ac/profile/isaiah_54)
- <img src="http://mazandi.herokuapp.com/api?handle={isaiah_54}&theme=warm"/>
+ <img src="http://mazandi.herokuapp.com/api?handle=isaiah_54&theme=warm"/>
    
 
 ## skills🔑
