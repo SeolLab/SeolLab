@@ -19,13 +19,16 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
    
    
 
-![SeolLab github stats](https://github-readme-stats.vercel.app/api?username=SeolLab&show_icons=true&theme=chartreuse-dark)  
+![SeolLab github stats](https://github-readme-stats.vercel.app/api?username=SeolLab&show_icons=true&theme=chartreuse-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeolLab&layout=compact&theme=chartreuse-dark)   
+   
+ &nbsp;     
+   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=isaiah_54)](https://solved.ac/profile/isaiah_54)
  <img src="http://mazandi.herokuapp.com/api?handle=isaiah_54&theme=warm"/>
    
 
-## skills🔑
+## skills🧑‍💻
 <!-- 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat&logo=Spring&logoColor=white) -->
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)
