@@ -12,12 +12,11 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   <a href="https://seolpark.tistory.com/"><img src="http://img.shields.io/badge/-MyStory-000000?style=flat&logo=Tistory&link=https://seolpark.tistory.com/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
-
-   ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg? url=https%3A%2F%2Fgithub.com%2Fseol731%2Fseol731%2Fedit%2Fmain%2FREADME.md&count_bg=%230A130E&title_bg=%23555555&icon=electron.svg&icon_color=%231AC49E&title=hits&edge_flat=false)
-
+   
+   
 ![SeolLab github stats](https://github-readme-stats.vercel.app/api?username=SeolLab&show_icons=true&theme=chartreuse-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeolLab&layout=compact&theme=chartreuse-dark)   
-   
+
  &nbsp;     
    
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=isaiah_54)](https://solved.ac/profile/isaiah_54)
