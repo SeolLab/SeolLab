@@ -23,7 +23,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=isaiah_54)](https://solved.ac/profile/isaiah_54)
  <img src="http://mazandi.herokuapp.com/api?handle=isaiah_54&theme=warm"/>
    
-
+ 
 ## skills🧑‍💻
 <!-- 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat&logo=Spring&logoColor=white) -->
