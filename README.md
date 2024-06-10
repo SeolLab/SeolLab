@@ -52,6 +52,6 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white)
  
  
-## Contacts:mailbox_with_mail:
+## Contacts 📨
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:seolpark731@gmail.com)](mailto:seolpark731@gmail.com)
 <!-- [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:rlatngus1691@naver.com) -->
