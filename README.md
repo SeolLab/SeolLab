@@ -2,7 +2,7 @@
 > _"For the hills may shake, But My covenant of peace will not be shaken."_
 
 # Ki-Hyun Seol🖋
-[![Hits](https://hits.sh/github.com/seol731/seol731.svg?style=for-the-badge&label=visitors&color=1AC49E&count=9999)](https://hits.sh/github.com/seol731/seol731/)
+[![Hits](https://hits.sh/github.com/seol731/seol731.svg?view=today-total)](https://hits.sh/github.com/seol731/seol731/)
  <a href="https://www.instagram.com/key_seol/"><img src="http://img.shields.io/badge/-key_seol-833ab4?style=flat&logo=Instagram&link=https://www.instagram.com/key_seol/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
  <a href="https://velog.io/@seolpark"><img src="http://img.shields.io/badge/-Seol'Lab-72c6db?style=flat&logo=velog&link=https://velog.io/@seolpark"
